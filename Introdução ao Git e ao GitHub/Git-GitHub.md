@@ -67,7 +67,7 @@ Após encontrar o repositório que deseja estar realizando a clonagem, basta cop
 
 **Onde encontrar o Link de um repositório**
 
-![](C:\workspace\dio-desafio-primeiro-repositorio\img\link-repositorio.png)
+![](https://github.com/almirjunior-p/dio-desafio-primeiro-repositorio/blob/main/img/link-repositorio.png)
 
 
 
