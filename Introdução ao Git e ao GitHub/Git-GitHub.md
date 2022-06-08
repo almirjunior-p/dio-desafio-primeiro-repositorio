@@ -61,7 +61,7 @@ Após criar um repositório no GitHub que ira hospedar seu arquivos fonte, deve-
 
 ### Como Clonar um repositório no GitHub
 
-Após encontrar o repositório que deseja estar realizando a clonagem, basta copiar o link do repositório (exemplo), vá até pasta raiz que ira receber o repositório, abre o GitBash no diretório e use o comando "git clone (link do repositório que deseja fazer a clonagem)", ira automaticamente começar a fazer a clonagem, caso seja a primeira fez realizando uma clonagem, ira ser solicitado que você faça uma autentificarão através do navegador padrão, solicitando login e senha para vincular a credencial.
+Após encontrar o repositório que deseja estar realizando a clonagem, basta copiar o link do repositório ([exemplo](https://github.com/almirjunior-p/dio-desafio-primeiro-repositorio/blob/main/img/link-repositorio.png)), vá até pasta raiz que ira receber o repositório, abre o GitBash no diretório e use o comando "git clone (link do repositório que deseja fazer a clonagem)", ira automaticamente começar a fazer a clonagem, caso seja a primeira fez realizando uma clonagem, ira ser solicitado que você faça uma autentificarão através do navegador padrão, solicitando login e senha para vincular a credencial.
 
 
 
