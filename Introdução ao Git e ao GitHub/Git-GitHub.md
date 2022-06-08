@@ -22,7 +22,7 @@ A instalação segue padrão como qualquer outra, após o download do arquivo ba
 
 ##### Opções a serem marcadas para o sistema operacional Windows 
 
-![](C:\Users\almir\Desktop\Screenshot_2.png)
+![](C:\workspace\dio-desafio-primeiro-repositorio\img\Screenshot_2.png)
 
 "Git Credential Manager", refere-se a um gerenciador de credenciais que realizam a autorização da  comunicação entre o Git e o GitHub, evitando erro ao tentar o envio de alguma atualização do seu código fonte, essa opção estava disponível na versão 2.33.02, mas foi removida nas versões mais recentes.
 
