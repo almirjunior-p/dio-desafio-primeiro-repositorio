@@ -1,4 +1,4 @@
-# O que é o Git e ao GitHub
+# O que é o Git e o GitHub
 
 ### O que é o Git
 
